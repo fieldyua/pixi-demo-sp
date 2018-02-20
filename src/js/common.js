@@ -1,0 +1,1 @@
+export let rng = (min, max) => Math.floor(min + Math.random() * (max - min + 1));
